@@ -7,10 +7,11 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 [extra]
-even_title = "yihong0618's Blog"
+even_title = "ANSVVER's Blog"
 even_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/tags/top/", name = "Top"},
+    {url = "$BASE_URL/tags/", name = "Tags"},
     {url = "$BASE_URL/issue-282/", name = "About"},
     {url = "$BASE_URL/issue-311/", name = "Things I like"},
 ]
