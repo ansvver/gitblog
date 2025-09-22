@@ -13,7 +13,7 @@ MD_HEAD = """## [Gitblog](https://yihong0618.github.io/gitblog/)
 My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
 [Things I like](https://github.com/yihong0618/gitblog/issues/311)
 ![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+[RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)
 """
 
 BACKUP_DIR = "BACKUP"
@@ -272,7 +272,7 @@ def generate_rss_feed(repo, filename, me):
     )
     generator.link(href=repo.html_url)
     generator.link(
-        href=f"https://raw.githubusercontent.com/{repo.full_name}/master/{filename}",
+        href=f"https://raw.githubusercontent.com/{repo.full_name}/main/{filename}",
         rel="self",
     )
     for issue in repo.get_issues():
