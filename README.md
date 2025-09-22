@@ -6,6 +6,8 @@
 
 [RSS Feed](https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml)
 
+## 置顶文章
+- [Hello World IV!!!](https://github.com/ansvver/gitblog/issues/4)--2025-09-22
 ## 最近更新
 - [Hello World GG!](https://github.com/ansvver/gitblog/issues/8)--2025-09-22
 - [Hello World VII!!](https://github.com/ansvver/gitblog/issues/7)--2025-09-22
