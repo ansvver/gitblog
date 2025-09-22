@@ -9,8 +9,12 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Gitblog](https://ansvver.github.io/gitblog/)
+MD_HEAD = """# [Gitblog](https://ansvver.github.io/gitblog/)
+
 ![image](https://raw.githubusercontent.com/ansvver/ansvver.github.io.arxiv.2025/refs/heads/master/logo.png)
+
+![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
+
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)
 """
 
