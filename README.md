@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)
 
-[RSS Feed](https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml)
+[RSS Feed](https://raw.githubusercontent.com/ansvver/gitblog/gitblog/refs/heads/main/feed.xml)
 
 ## 置顶文章
 - [Hello World IV!!!](https://github.com/ansvver/gitblog/issues/4)--2025-09-22
