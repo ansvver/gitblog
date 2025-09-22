@@ -10,8 +10,7 @@ on:
     branches:
       - main
     paths:
-      - main.py-stop
-
+      - main.py
 jobs:
   sync:
     name: Generate README
