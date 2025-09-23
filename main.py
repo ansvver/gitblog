@@ -9,7 +9,7 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Gitblog](https://ansvver.github.io/gitblog/)
+MD_HEAD = """# [Gitblog](https://ansvver.github.io/gitblog/)
 
 ![image](https://raw.githubusercontent.com/ansvver/ansvver.github.io.arxiv.2025/refs/heads/master/logo.png)
 
@@ -20,11 +20,11 @@ MD_HEAD = """## [Gitblog](https://ansvver.github.io/gitblog/)
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
-TOP_ISSUES_LABELS = ["Top"]
+TOP_ISSUES_LABELS = ["TOP"]
 TODO_ISSUES_LABELS = ["TODO"]
-FRIENDS_LABELS = ["Friends"]
-ABOUT_LABELS = ["About"]
-THINGS_LABELS = ["Things"]
+FRIENDS_LABELS = ["FRIENDS"]
+ABOUT_LABELS = ["ABOUT"]
+THINGS_LABELS = ["THINGS"]
 IGNORE_LABELS = (
     FRIENDS_LABELS
     + TOP_ISSUES_LABELS
