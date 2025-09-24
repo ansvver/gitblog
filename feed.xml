@@ -1,3 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-23T02:02:57.544834+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/13</id><title>iwgh</title><updated>2025-09-23T02:02:57.804698+00:00</updated><content type="html"><![CDATA[<p>iwgh</p>
-]]></content><link href="https://github.com/ansvver/gitblog/issues/13"/><category term="TOP"/><published>2025-09-22T14:45:46+00:00</published></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-24T04:45:56.320179+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-24T04:45:56.687819+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
+<p><a href="https://arxiv.org/pdf/2509.06160">https://arxiv.org/pdf/2509.06160</a></p>
+<p><a href="https://github.com/HaozheH3/REER_DeepWriter">https://github.com/HaozheH3/REER_DeepWriter</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/1951284215594324456">https://zhuanlan.zhihu.com/p/1951284215594324456</a></p>
+<h1>一句话主要贡献</h1>
+<p>提出一种新的推理数据构建方法——逆向工程推理（REER），区别以往目标从生成解决方案转变为发现潜在的推理过程，并证明了使用该合成数据集微调后的模型在复杂生成能力上有提升。</p>
+<h1>思考路径生成方案</h1>
+<img width="500" height="350" alt="Image" src="https://github.com/user-attachments/assets/096a5019-59bb-47aa-9c77-a31b31d98268" />
+<ul>
+<li>PPL 实现</li>
+</ul>
+<p><a href="https://zhuanlan.zhihu.com/p/998336469">https://zhuanlan.zhihu.com/p/998336469</a></p>
+<p><a href="https://github.com/HaozheH3/REER_DeepWriter/blob/277acc6dcd0fd36c3ff32a5a1c3aba8b8cdd5a17/synthesize_deep_reasoning/synthesize.py#L592">https://github.com/HaozheH3/REER_DeepWriter/blob/277acc6dcd0fd36c3ff32a5a1c3aba8b8cdd5a17/synthesize_deep_reasoning/synthesize.py#L592</a></p>
+]]></content><link href="https://github.com/ansvver/gitblog/issues/14"/><published>2025-09-24T04:45:35+00:00</published></entry></feed>

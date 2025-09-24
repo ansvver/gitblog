@@ -6,7 +6,5 @@
 
 [RSS Feed](https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml)
 
-## 置顶文章
-- [iwgh](https://github.com/ansvver/gitblog/issues/13)--2025-09-22
 ## 最近更新
-- [iwgh](https://github.com/ansvver/gitblog/issues/13)--2025-09-22
+- [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
