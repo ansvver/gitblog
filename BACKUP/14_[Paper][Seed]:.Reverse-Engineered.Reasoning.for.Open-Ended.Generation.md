@@ -19,15 +19,15 @@
 
 - *PPL 实现*
 
-https://zhuanlan.zhihu.com/p/998336469
+[https://zhuanlan.zhihu.com/p/998336469](https://zhuanlan.zhihu.com/p/998336469)
 
-https://github.com/HaozheH3/REER_DeepWriter/blob/277acc6dcd0fd36c3ff32a5a1c3aba8b8cdd5a17/synthesize_deep_reasoning/synthesize.py#L592
+[https://github.com/HaozheH3/REER_DeepWriter/blob/277acc6dcd0fd36c3ff32a5a1c3aba8b8cdd5a17/synthesize_deep_reasoning/synthesize.py#L592](https://github.com/HaozheH3/REER_DeepWriter/blob/277acc6dcd0fd36c3ff32a5a1c3aba8b8cdd5a17/synthesize_deep_reasoning/synthesize.py#L592)
 
 
 
 
 ---
 
-Ray 计算既定输出token概率(Chatgpt)：
+Ray 计算既定输出token概率(From GPT)：
 
 [https://chatgpt.com/share/68d37756-f890-800b-a779-d0fd4f7ed597](https://chatgpt.com/share/68d37756-f890-800b-a779-d0fd4f7ed597)
