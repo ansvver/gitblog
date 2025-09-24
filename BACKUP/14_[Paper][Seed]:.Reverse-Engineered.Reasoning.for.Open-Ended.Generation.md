@@ -72,3 +72,7 @@ Ray 计算既定输出token概率(From GPT)：
 > 补充数据：OpenThoughts（开源推理数据集，含数学、编程、科学领域的“（x,z,y）”三元组，约17,000个）；
 > 混合比例：核心数据:补充数据 ≈ 1:0.85，最终总数据量约37,000个三元组。
 > 目的：让模型在“开放式生成深度推理”与“通用推理”间保持平衡，避免灾难性过拟合。
+
+---
+
+[https://huggingface.co/datasets/m-a-p/DeepWriting-20K](https://huggingface.co/datasets/m-a-p/DeepWriting-20K)

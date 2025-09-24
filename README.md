@@ -8,9 +8,6 @@
 
 ## 最近更新
 - [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
-## PAPER
-
-- [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
 ## REASONING
 
 - [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
