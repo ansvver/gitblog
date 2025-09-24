@@ -6,7 +6,7 @@
 
 [https://github.com/Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 
-系统论文共11 篇
+系列论文共11 篇
 
 <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/d8ea586f-ff2e-4427-a6cd-03b2a9feacaf" />
 
