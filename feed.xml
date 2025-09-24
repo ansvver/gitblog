@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-24T09:16:20.882863+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/15</id><title>[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title><updated>2025-09-24T09:16:21.428597+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-24T10:05:44.922370+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/15</id><title>[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title><updated>2025-09-24T10:05:45.313229+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
 <p><a href="https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/">https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/</a></p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch">https://github.com/Alibaba-NLP/DeepResearch</a></p>
 <p>系统论文共11 篇</p>
 <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/d8ea586f-ff2e-4427-a6cd-03b2a9feacaf" />
-<h1>系列论文</h1>
-<p>##＃ WebWalker: Benchmarking LLMs in Web Traversal</p>
+<h1>一句话总结</h1>
+<h2>WebWalker: Benchmarking LLMs in Web Traversal</h2>
 <p><a href="https://arxiv.org/pdf/2501.07572">https://arxiv.org/pdf/2501.07572</a></p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebWalker">https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebWalker</a></p>
-]]></content><link href="https://github.com/ansvver/gitblog/issues/15"/><category term="TODO"/><category term="PAPER"/><published>2025-09-24T08:53:46+00:00</published></entry><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-24T09:16:21.739773+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
+<p>构建了一个多跳多源且单源探索度高的复杂网页遍历Benchmark（WebWalkerQA，包含4个场景680个query共涉1373个网页），并提出一个多智能体框架（WebWorker，ExplorerAgent+CrticAgent），多个主流LLM在此框架下在此Benchmark表现最高准确率小于40%</p>
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/09ec89a1-77d3-4cdb-9cdf-4c56877df561" />
+<p><a href="https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard">https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard</a></p>
+]]></content><link href="https://github.com/ansvver/gitblog/issues/15"/><category term="TODO"/><category term="PAPER"/><published>2025-09-24T08:53:46+00:00</published></entry><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-24T10:05:45.481703+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
 <p><a href="https://arxiv.org/pdf/2509.06160">https://arxiv.org/pdf/2509.06160</a></p>
 <p><a href="https://github.com/HaozheH3/REER_DeepWriter">https://github.com/HaozheH3/REER_DeepWriter</a></p>
 <p><a href="https://zhuanlan.zhihu.com/p/1951284215594324456">https://zhuanlan.zhihu.com/p/1951284215594324456</a></p>

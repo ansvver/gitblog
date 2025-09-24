@@ -10,11 +10,16 @@
 
 <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/d8ea586f-ff2e-4427-a6cd-03b2a9feacaf" />
 
-# 系列论文
+# 一句话总结
 
-##＃ WebWalker: Benchmarking LLMs in Web Traversal
+## WebWalker: Benchmarking LLMs in Web Traversal
 
 [https://arxiv.org/pdf/2501.07572](https://arxiv.org/pdf/2501.07572)
 
 [https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebWalker](https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebWalker)
 
+构建了一个多跳多源且单源探索度高的复杂网页遍历Benchmark（WebWalkerQA，包含4个场景680个query共涉1373个网页），并提出一个多智能体框架（WebWorker，ExplorerAgent+CrticAgent），多个主流LLM在此框架下在此Benchmark表现最高准确率小于40%
+
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/09ec89a1-77d3-4cdb-9cdf-4c56877df561" />
+
+https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard
