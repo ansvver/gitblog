@@ -2,11 +2,11 @@
 
 # 链接
 
-https://arxiv.org/pdf/2509.06160
+[https://arxiv.org/pdf/2509.06160](https://arxiv.org/pdf/2509.06160)
 
-https://github.com/HaozheH3/REER_DeepWriter
+[https://github.com/HaozheH3/REER_DeepWriter](https://github.com/HaozheH3/REER_DeepWriter)
 
-https://zhuanlan.zhihu.com/p/1951284215594324456
+[https://zhuanlan.zhihu.com/p/1951284215594324456](https://zhuanlan.zhihu.com/p/1951284215594324456)
 
 # 一句话主要贡献
 
@@ -16,7 +16,8 @@ https://zhuanlan.zhihu.com/p/1951284215594324456
 
 <img width="500" height="350" alt="Image" src="https://github.com/user-attachments/assets/096a5019-59bb-47aa-9c77-a31b31d98268" />
 
-- PPL 实现
+
+- *PPL 实现*
 
 https://zhuanlan.zhihu.com/p/998336469
 
