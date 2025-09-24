@@ -20,6 +20,6 @@
 
 构建了一个多跳多源且单源探索度高的复杂网页遍历Benchmark（WebWalkerQA，包含4个场景680个query共涉1373个网页），并提出一个多智能体框架（WebWorker，ExplorerAgent+CrticAgent），多个主流LLM在此框架下在此Benchmark表现最高准确率小于40%
 
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/09ec89a1-77d3-4cdb-9cdf-4c56877df561" />
+<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/984a1d8f-c34f-4ba7-9c49-48e45a21e3c4" />
 
 https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard
