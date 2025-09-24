@@ -28,5 +28,6 @@ https://github.com/HaozheH3/REER_DeepWriter/blob/277acc6dcd0fd36c3ff32a5a1c3aba8
 
 ---
 
-Ray 计算既定输出token概率：
-https://chatgpt.com/share/68d37756-f890-800b-a779-d0fd4f7ed597
+Ray 计算既定输出token概率(Chatgpt)：
+
+[https://chatgpt.com/share/68d37756-f890-800b-a779-d0fd4f7ed597](https://chatgpt.com/share/68d37756-f890-800b-a779-d0fd4f7ed597)
