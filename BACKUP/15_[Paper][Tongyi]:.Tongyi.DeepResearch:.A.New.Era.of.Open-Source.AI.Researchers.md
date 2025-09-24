@@ -22,4 +22,7 @@
 
 <img width="500"  alt="Image" src="https://github.com/user-attachments/assets/984a1d8f-c34f-4ba7-9c49-48e45a21e3c4" />
 
-https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard
+
+[https://github.com/Alibaba-NLP/DeepResearch/blob/main/WebAgent/WebWalker/src/prompts.py](https://github.com/Alibaba-NLP/DeepResearch/blob/main/WebAgent/WebWalker/src/prompts.py)
+[https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard](https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard)
+[https://huggingface.co/datasets/callanwu/WebWalkerQA](https://huggingface.co/datasets/callanwu/WebWalkerQA)
