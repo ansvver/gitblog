@@ -23,7 +23,7 @@
 
 - 一个例子
 
-<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/984a1d8f-c34f-4ba7-9c49-48e45a21e3c4" />
+<img width="800"  alt="Image" src="https://github.com/user-attachments/assets/984a1d8f-c34f-4ba7-9c49-48e45a21e3c4" />
 
 **附录**：
 
@@ -51,3 +51,26 @@
 阶段三：**supervised fine-tuning for effective cold start**，微调使格式指令遵循能力适应智能体任务和环境
 
 阶段四：**reinforcement learning for improved generalization**，应用强化学习（RL）优化智能体在真实世界网络环境中的决策能力和泛化能力
+
+- 一个例子
+
+<img width="800" height="626" alt="Image" src="https://github.com/user-attachments/assets/4ad0b00b-1467-47d8-8132-53e1df597c69" />
+
+- 效果
+
+<img width="500" height="1834" alt="Image" src="https://github.com/user-attachments/assets/81a6688a-6127-4bc1-9d05-bed9eb263b3b" />
+
+（ReAct Agentic 效果比 LLM Agentic 好？！）
+
+- 指标
+
+Pass@1, Pass@3 and Cons@3
+
+
+
+
+
+
+
+
+

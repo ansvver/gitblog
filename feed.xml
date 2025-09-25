@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-25T11:13:52.128547+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/15</id><title>[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title><updated>2025-09-25T11:13:52.624919+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-25T11:52:49.834049+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/15</id><title>[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title><updated>2025-09-25T11:52:50.208989+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
 <p><a href="https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/">https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/</a></p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch">https://github.com/Alibaba-NLP/DeepResearch</a></p>
 <p>系列工作共11 篇</p>
@@ -12,7 +12,7 @@
 <ul>
 <li>一个例子</li>
 </ul>
-<img width="500"  alt="Image" src="https://github.com/user-attachments/assets/984a1d8f-c34f-4ba7-9c49-48e45a21e3c4" />
+<img width="800"  alt="Image" src="https://github.com/user-attachments/assets/984a1d8f-c34f-4ba7-9c49-48e45a21e3c4" />
 <p><strong>附录</strong>：</p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch/blob/main/WebAgent/WebWalker/src/prompts.py">https://github.com/Alibaba-NLP/DeepResearch/blob/main/WebAgent/WebWalker/src/prompts.py</a>
 <a href="https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard">https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard</a>
@@ -29,7 +29,20 @@
 <p>阶段二：<strong>trajectory sampling</strong>，利用LLM和LRM从问答对中采样高质量轨迹，以指导智能体的学习过程</p>
 <p>阶段三：<strong>supervised fine-tuning for effective cold start</strong>，微调使格式指令遵循能力适应智能体任务和环境</p>
 <p>阶段四：<strong>reinforcement learning for improved generalization</strong>，应用强化学习（RL）优化智能体在真实世界网络环境中的决策能力和泛化能力</p>
-]]></content><link href="https://github.com/ansvver/gitblog/issues/15"/><category term="PAPER"/><category term="WIP"/><published>2025-09-24T08:53:46+00:00</published></entry><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-25T11:13:52.863497+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
+<ul>
+<li>一个例子</li>
+</ul>
+<img width="800" height="626" alt="Image" src="https://github.com/user-attachments/assets/4ad0b00b-1467-47d8-8132-53e1df597c69" />
+<ul>
+<li>效果</li>
+</ul>
+<img width="500" height="1834" alt="Image" src="https://github.com/user-attachments/assets/81a6688a-6127-4bc1-9d05-bed9eb263b3b" />
+<p>（ReAct Agentic 效果比 LLM Agentic 好？！）</p>
+<ul>
+<li>指标</li>
+</ul>
+<p>Pass@1, Pass@3 and Cons@3</p>
+]]></content><link href="https://github.com/ansvver/gitblog/issues/15"/><category term="PAPER"/><category term="WIP"/><published>2025-09-24T08:53:46+00:00</published></entry><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-25T11:52:50.477729+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
 <p><a href="https://arxiv.org/pdf/2509.06160">https://arxiv.org/pdf/2509.06160</a></p>
 <p><a href="https://github.com/HaozheH3/REER_DeepWriter">https://github.com/HaozheH3/REER_DeepWriter</a></p>
 <p><a href="https://zhuanlan.zhihu.com/p/1951284215594324456">https://zhuanlan.zhihu.com/p/1951284215594324456</a></p>
