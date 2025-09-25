@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-25T12:00:58.744124+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/15</id><title>[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title><updated>2025-09-25T12:00:59.066459+00:00</updated><content type="html"><![CDATA[<p><a href="https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/">https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/</a></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/ansvver/gitblog</id><title>RSS feed of ansvver's gitblog</title><updated>2025-09-25T12:34:57.742993+00:00</updated><link href="https://github.com/ansvver/gitblog"/><link href="https://raw.githubusercontent.com/ansvver/gitblog/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/ansvver/gitblog/issues/15</id><title>[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title><updated>2025-09-25T12:34:58.055508+00:00</updated><content type="html"><![CDATA[<p><a href="https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/">https://tongyi-agent.github.io/zh/blog/introducing-tongyi-deep-research/</a></p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch">https://github.com/Alibaba-NLP/DeepResearch</a></p>
-<h1>WebWalker: Benchmarking LLMs in Web Traversal</h1>
+<h1>① WebWalker: Benchmarking LLMs in Web Traversal</h1>
 <img width="144" height="203" alt="Image" src="https://github.com/user-attachments/assets/5fa9e60a-2d3d-4c36-9f43-df6f1e354148" />
 <p><a href="https://arxiv.org/pdf/2501.07572">https://arxiv.org/pdf/2501.07572</a></p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebWalker">https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebWalker</a></p>
@@ -14,7 +14,7 @@
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch/blob/main/WebAgent/WebWalker/src/prompts.py">https://github.com/Alibaba-NLP/DeepResearch/blob/main/WebAgent/WebWalker/src/prompts.py</a>
 <a href="https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard">https://huggingface.co/spaces/callanwu/WebWalkerQALeaderboard</a>
 <a href="https://huggingface.co/datasets/callanwu/WebWalkerQA">https://huggingface.co/datasets/callanwu/WebWalkerQA</a></p>
-<h1>WebDancer: Towards Autonomous Information Seeking Agency</h1>
+<h1>② WebDancer: Towards Autonomous Information Seeking Agency</h1>
 <img width="139" height="200" alt="Image" src="https://github.com/user-attachments/assets/80f05dfd-5d09-4948-8e6b-ab2f6cfc0b3f" />
 <p><a href="https://arxiv.org/pdf/2505.22648">https://arxiv.org/pdf/2505.22648</a></p>
 <p><a href="https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebDancer">https://github.com/Alibaba-NLP/DeepResearch/tree/main/WebAgent/WebDancer</a></p>
@@ -39,9 +39,9 @@
 <li>指标</li>
 </ul>
 <p>Pass@1, Pass@3 and Cons@3</p>
-<h1>WebSailor: Navigating Super-human Reasoning for Web Agent</h1>
+<h1>③ WebSailor: Navigating Super-human Reasoning for Web Agent</h1>
 <img width="144" height="220" alt="Image" src="https://github.com/user-attachments/assets/2d100b88-831a-4c4e-9313-199619fe5dd4" />
-]]></content><link href="https://github.com/ansvver/gitblog/issues/15"/><category term="PAPER"/><category term="WIP"/><published>2025-09-24T08:53:46+00:00</published></entry><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-25T12:00:59.215650+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
+]]></content><link href="https://github.com/ansvver/gitblog/issues/15"/><category term="PAPER"/><category term="WIP"/><published>2025-09-24T08:53:46+00:00</published></entry><entry><id>https://github.com/ansvver/gitblog/issues/14</id><title>[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation</title><updated>2025-09-25T12:34:58.182469+00:00</updated><content type="html"><![CDATA[<h1>链接</h1>
 <p><a href="https://arxiv.org/pdf/2509.06160">https://arxiv.org/pdf/2509.06160</a></p>
 <p><a href="https://github.com/HaozheH3/REER_DeepWriter">https://github.com/HaozheH3/REER_DeepWriter</a></p>
 <p><a href="https://zhuanlan.zhihu.com/p/1951284215594324456">https://zhuanlan.zhihu.com/p/1951284215594324456</a></p>

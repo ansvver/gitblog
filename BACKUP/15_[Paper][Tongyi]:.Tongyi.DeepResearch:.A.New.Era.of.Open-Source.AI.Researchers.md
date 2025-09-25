@@ -4,7 +4,7 @@
 
 [https://github.com/Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
 
-# WebWalker: Benchmarking LLMs in Web Traversal
+# ① WebWalker: Benchmarking LLMs in Web Traversal
 
 <img width="144" height="203" alt="Image" src="https://github.com/user-attachments/assets/5fa9e60a-2d3d-4c36-9f43-df6f1e354148" />
 
@@ -25,7 +25,7 @@
 [https://huggingface.co/datasets/callanwu/WebWalkerQA](https://huggingface.co/datasets/callanwu/WebWalkerQA)
 
 
-# WebDancer: Towards Autonomous Information Seeking Agency
+# ② WebDancer: Towards Autonomous Information Seeking Agency
 
 <img width="139" height="200" alt="Image" src="https://github.com/user-attachments/assets/80f05dfd-5d09-4948-8e6b-ab2f6cfc0b3f" />
 
@@ -59,7 +59,7 @@
 
 Pass@1, Pass@3 and Cons@3
 
-# WebSailor: Navigating Super-human Reasoning for Web Agent
+# ③ WebSailor: Navigating Super-human Reasoning for Web Agent
 
 <img width="144" height="220" alt="Image" src="https://github.com/user-attachments/assets/2d100b88-831a-4c4e-9313-199619fe5dd4" />
 
