@@ -9,12 +9,16 @@
 ## 最近更新
 - [[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers](https://github.com/ansvver/gitblog/issues/15)--2025-09-24
 - [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
+## PAPER
+
+- [[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers](https://github.com/ansvver/gitblog/issues/15)--2025-09-24
+- [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
 ## REASONING
 
 - [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
+## WIP
+
+- [[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers](https://github.com/ansvver/gitblog/issues/15)--2025-09-24
 ## 数据合成
 
 - [[Paper][Seed]: Reverse-Engineered Reasoning for Open-Ended Generation](https://github.com/ansvver/gitblog/issues/14)--2025-09-24
-## TODO
-TODO list from [[Paper][Tongyi]: Tongyi DeepResearch: A New Era of Open-Source AI Researchers](https://github.com/ansvver/gitblog/issues/15) all done
-
